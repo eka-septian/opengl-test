@@ -361,5 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/ExploreOpenGL/res/Textures
-/ExploreOpenGL/src/Vendor/stb_image
